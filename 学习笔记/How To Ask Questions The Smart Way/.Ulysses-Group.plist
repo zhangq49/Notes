@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>How To Ask Questions The Smart Way.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>484988679.05417001</real>
+				<key>version</key>
+				<dict>
+					<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>How To Ask Questions The Smart Way.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

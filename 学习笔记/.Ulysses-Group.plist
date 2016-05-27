@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>How To Ask Questions The Smart Way</string>
+		<string>新建文件夹</string>
+		<string>web前端</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>How To Ask Questions The Smart Way</key>
+			<dict>
+				<key>lastModification</key>
+				<real>484988654.15318602</real>
+				<key>version</key>
+				<dict>
+					<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>web前端</key>
+			<dict>
+				<key>lastModification</key>
+				<real>484060088.56737</real>
+				<key>version</key>
+				<dict>
+					<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>新建文件夹</key>
+			<dict>
+				<key>lastModification</key>
+				<real>484060088.56736302</real>
+				<key>version</key>
+				<dict>
+					<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>a4acd1ad833d4d751c0f2facd6f77f630489b41147ccd94c856626ea900456a8</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
