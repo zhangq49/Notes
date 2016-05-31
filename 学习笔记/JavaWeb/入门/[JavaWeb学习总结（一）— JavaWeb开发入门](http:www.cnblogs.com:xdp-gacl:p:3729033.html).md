@@ -23,7 +23,7 @@
 
 #### 1.4 静态WEB
 
- ![static](/Users/ivan/Desktop/Notes/学习笔记/JavaWeb/入门/static.png)
+ ![static](static.png)
 
 * 缺点
   * web页面中的内容无法动态更新，所有的用户每时每刻看见的内容和最终效果都是一样的。
@@ -31,7 +31,7 @@
 
 #### 1.5 动态WEB
 
- ![dynamic](/Users/ivan/Desktop/Notes/学习笔记/JavaWeb/入门/dynamic.png)
+ ![dynamic](dynamic.png)
 
 #### 1.6 动态WEB应用的实现手段
 
@@ -53,11 +53,11 @@
 
 * web服务器是指驻留于因特网上某种类型计算机的程序，是可以向发出请求的浏览器提供文档的程序。
 
- ![152304507501851](/Users/ivan/Desktop/Notes/学习笔记/JavaWeb/入门/152304507501851.jpg)
+ ![152304507501851](152304507501851.jpg)
 
 * 服务器是一种被动程序：只有当Internet上运行在其他计算机中的浏览器发出请求时，服务器才会响应。
 
- ![152305257189334](/Users/ivan/Desktop/Notes/学习笔记/JavaWeb/入门/152305257189334.png)
+ ![152305257189334](152305257189334.png)
 
 #### 2.2 常见的web服务器介绍
 
